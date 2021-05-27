@@ -1,0 +1,65 @@
+.signin
+{
+    float:right;
+}
+
+.signin button
+{
+    float:right;
+    margin: 3px 0px -20px 10px;
+    padding:5px 20px 5px 20px;
+    background-color: rgb(42, 108, 206);
+    border-color: rgb(39, 40, 43);
+    border-width: thin;
+    border-radius: 5%;
+    color: rgb(255, 255, 255);
+}
+
+.signin p
+{
+    margin-bottom:0px;
+}
+
+.signin a
+{
+    display:inline-block;
+    font-size: small;
+}
+
+.center-form
+{
+    margin:auto;
+    width: 30%;
+}
+
+.form-title
+{
+    text-align:center;
+}
+.form-title h1
+{
+    font-size: x-large;
+    margin-bottom: 0;
+    color:rgb(90, 90, 90);
+}
+.form-title li
+{
+    display:inline-block; 
+    color:rgb(90, 90, 90);
+}
+.form-title ul
+{
+    padding:0;
+}
+
+form{
+   text-align:center;
+}
+
+footer
+{
+    background-color: rgb(238, 238, 238);
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom:20px;
+}
